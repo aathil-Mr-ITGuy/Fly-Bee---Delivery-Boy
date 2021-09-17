@@ -5,11 +5,11 @@ android {
     compileSdkVersion 30
 
     defaultConfig {
-        applicationId "wrteam.ekart.dboy"
+        applicationId "com.hytham.flybeedelivery"
         minSdkVersion 20
         targetSdkVersion 30
         versionCode 1
-        versionName "1.0.1"
+        versionName "1.0.0"
         vectorDrawables.useSupportLibrary = true
         multiDexEnabled true
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
