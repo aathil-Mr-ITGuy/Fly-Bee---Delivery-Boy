@@ -142,8 +142,8 @@ public class LoginActivity extends AppCompatActivity {
 
         //setAppLocal("replace_your_language_code_here");
 
-//        Constant.country_code = "your_country_code";
-//        edtFCode.setText(Constant.country_code);zz
+        Constant.country_code = "94";
+        edtFCode.setText(Constant.country_code);
 
 
         if (from != null) {
